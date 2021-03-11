@@ -40,4 +40,8 @@ export OF_STATUS_H="98"
 
 #R11
 export FOX_R11=1
-export FOX_BUILD_TYPE=Beta
+export FOX_BUILD_TYPE=Unofficial-Beta
+export OF_MAINTAINER="KatoTempest"
+
+        export PLATFORM_VERSION="16.1.0"
+   	export PLATFORM_SECURITY_PATCH="2099-12-31"
