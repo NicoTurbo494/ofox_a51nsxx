@@ -1,4 +1,4 @@
-## TWRP device tree for the Samsung A515F.
+## OrangeFox device tree for the Samsung A515F.
 
 ## How-to compile it:
 
